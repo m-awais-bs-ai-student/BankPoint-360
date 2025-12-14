@@ -1,0 +1,4 @@
+account_id,full_name,father_name,cnic,contact_no,email_address,dob,user_name,address,password,balance,status,creation_date,face_image_path
+1002,Muhammad Hasnain,Muhammad Riaz Tanveer,0987654321123,09876543211,hasnainjutt288@gmail.com,2006-7-18,Hasnain,M.B.Din,5555,0.0,blocked,2025-12-10 17:45:10,C:\Users\muham\PycharmProjects\PythonProject\CDM_Working\user_database\1002_Muhammad_Hasnain.jpg
+1003,Malik Ateeb,Malik Din,1234567890987,12345678909,muhammadateebb@gmail.com,2005-09-25,ateeb,"TMK, Talagang",8888,500.0,active,2025-12-11 11:44:48,C:\Users\muham\PycharmProjects\PythonProject\CDM_Working\user_database\1003_Malik_Ateeb.jpg
+1004,Naeem,Abdul Rauf,2345678976543,12345678964,naeem@gmail.com,1999-02-4,naeem,Chakwaal,2222,500.0,active,2025-12-12 21:38:15,C:\Users\muham\PycharmProjects\PythonProject\CDM_Working\user_database\1004_Naeem.jpg
